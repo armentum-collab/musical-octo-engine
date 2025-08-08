@@ -1,0 +1,7 @@
+PS D:\musical-octo-engine> echo "# musical-octo-engine" >> README.md
+>> git init
+>> git add README.md
+>> git commit -m "first commit"
+>> git branch -M main
+>> git remote add origin https://github.com/armentum-collab/musical-octo-engine.git
+>> git push -u origin main
